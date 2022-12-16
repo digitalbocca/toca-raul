@@ -1,0 +1,21 @@
+{
+  "name": "toca-raul",
+  "version": "1.0.1",
+  "description": "Viva sociedade alternativa",
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitalbocca/toca-raul.git"
+  },
+  "keywords": [
+    "toca",
+    "raul",
+    "seixas"
+  ],
+  "author": "Gabriel Bertola Bocca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/digitalbocca/toca-raul/issues"
+  },
+  "homepage": "https://github.com/digitalbocca/toca-raul#readme"
+}
